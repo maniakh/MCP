@@ -1,3 +1,5 @@
+![MCP](mcp.jpg)
+
 # mcp-tespit
 
 Bu, yapay zeka asistanlarinin (ornegin Claude) bilgisayarinizin anlik CPU, RAM ve Disk kullanimini gorebilmesini saglayan Model Context Protocol (MCP) aracidir.
@@ -40,3 +42,6 @@ Claude uygulamasinin ayarlarindaki konfigürasyon dosyasina sunu ekleyin (yolu k
   }
 }
 ```
+![MCP](mcp2.png)
+
+**[MCP Blog Yazısını Oku](https://enableroot.com/blog/mcp)**
