@@ -43,5 +43,6 @@ Claude uygulamasinin ayarlarindaki konfigürasyon dosyasina sunu ekleyin (yolu k
 }
 ```
 ![MCP](mcp2.png)
+![MCP](mcp3.png)
 
 **[MCP Blog Yazısını Oku](https://enableroot.com/blog/mcp)**
