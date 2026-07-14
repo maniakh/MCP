@@ -1,4 +1,4 @@
-![MCP](mcp.jpg)
+<img width="1424" height="752" alt="Image" src="https://github.com/user-attachments/assets/73a8abc0-e119-45ff-b36d-6f18548ded09" />
 
 # mcp-tespit
 
@@ -42,7 +42,7 @@ Claude uygulamasinin ayarlarindaki konfigürasyon dosyasina sunu ekleyin (yolu k
   }
 }
 ```
-![MCP](mcp2.png)
-![MCP](mcp3.png)
+<img width="809" height="268" alt="Image" src="https://github.com/user-attachments/assets/ab76f25a-198f-4d85-a6f3-f4cbe3137d62" />
+<img width="264" height="428" alt="Image" src="https://github.com/user-attachments/assets/59687070-d5a3-42ed-ac53-9246b067e081" />
 
 **[MCP Blog Yazısını Oku](https://enableroot.com/blog/mcp)**
